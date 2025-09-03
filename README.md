@@ -1,11 +1,11 @@
-# Agent-Advisor
+# AgentAdvisor
 
-Agent-Advisor is a multi-agent AI system designed to classify user queries and provide insights across various domains, including budget, legal, and marketing. The system utilizes specialized agents to analyze queries and synthesize recommendations based on their responses.
+AgentAdvisor is a multi-agent AI system designed to classify user queries and provide insights across various domains, including budget, legal, and marketing. The system utilizes specialized agents to analyze queries and synthesize recommendations based on their responses.
 
 ## Project Structure
 
 ```
-LaunchyAdvisor
+AgentAdvisor
 ├── srchuggingface
 │   ├── agents
 │   │   ├── middle_agents.py       
