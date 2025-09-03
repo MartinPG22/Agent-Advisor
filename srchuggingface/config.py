@@ -1,0 +1,1 @@
+HF_MODEL = "meta-llama/Llama-3.1-8B-Instruct:cerebras"
